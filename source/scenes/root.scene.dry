@@ -57,13 +57,14 @@ Q.unions_dissent = 10;
 Q.fans_strength = 15;
 Q.fans_dissent = 10;
 Q.concerned_majority_strength = 15;
-Q.neorevisionist_dissent = 15;
+Q.concerned_majority_dissent = 15;
 
 // secret events...
-Q.unions_independent = 0;
-Q.centrists_resign = 0;
-Q.left_split = 0;
-Q.reformists_resigned = 0;
+Q.unions_strike = 0;
+Q.gbb_shutdown = 0;
+Q.cast_and_crew_revolt = 0;
+Q.fans_boycott = 0;
+Q.concerned_majority_protest =0;
 
 // have we discovered neorevisionism?
 Q.neorevisionism = 0;
