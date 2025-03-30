@@ -36,9 +36,9 @@ Q.old_demographics = 0;
 Q.use_decimals = 0;
 
 // unit budget
-Q.resources = 2;
+Q.resources = 20;
 // unit funds 
-Q.dues = 2;
+Q.dues = 10;
 
 // the state of the unit
 // overall dissent reduces every increase in ratings.
@@ -66,8 +66,11 @@ Q.cast_and_crew_revolt = 0;
 Q.fans_boycott = 0;
 Q.concerned_majority_protest =0;
 
-// have we discovered neorevisionism?
-Q.neorevisionism = 0;
+// do we have an organised fan community?
+Q.fans = 0;
+
+// has the concerned majority formed?
+Q.concerned_majority = 0;
 
 // crisis_urgency indicates how seriously the SPD is taking the economic crisis - scale from 0 to 10.
 Q.crisis_urgency = 0;
